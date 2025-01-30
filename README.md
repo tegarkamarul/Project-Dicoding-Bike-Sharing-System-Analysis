@@ -57,7 +57,7 @@ Untuk melihat sumber data mentahnya bisa klin link [**disini**](https://www.kagg
 ├── README.md
 └── requirements.txt
 ```
-Berikut adalah struktur dari folder Submission_TegarKamarulzaman yang merupakan tugas saya. Untuk data pada folder data merupakan data mentah sedangkan data pada folder dashboar merupakan data hasil pembersihan dari proses analisis pada file notebook. file notebook berisi proses dan langkah - langkah analisis data sedangkan file requirement berisi library atau packages apa saja yang digunakan dalam proses pembuatan tugas.
+Berikut adalah struktur dari folder Submission yang merupakan tugas saya. Untuk data pada folder data merupakan data mentah sedangkan data pada folder dashboar merupakan data hasil pembersihan dari proses analisis pada file notebook. file notebook berisi proses dan langkah - langkah analisis data sedangkan file requirement berisi library atau packages apa saja yang digunakan dalam proses pembuatan tugas.
 ## Tata Cara Menjalankan Dashboard
 1. Pastikan anda sudah menginstal python yang menjadi bahasa utama dalam pembuatan dashboard. Jika belum anda bisa mengunjungi link [**berikut.**](https://www.python.org/downloads/windows/)
 2. Buka Terminal atau CMD lalu pastikan bahwa anda sudah berada di path dari folder submission.
