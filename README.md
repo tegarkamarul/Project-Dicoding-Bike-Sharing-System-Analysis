@@ -74,6 +74,7 @@ cd dashboard
 ```
 streamlit run dashboard.py
 ```
-6. Maka tampilan dashboard akan muncul secara otomatis
+6. Maka tampilan dashboard akan muncul secara otomatis.
+7. Apabila kamu kesulitan dalam melakukan running dashboard, bisa langsung klik [*disini*](https://bike-sharing-system-analysis-tegark.streamlit.app/)
 
 Berikut penjelasan dari saya. Terima kasih.
