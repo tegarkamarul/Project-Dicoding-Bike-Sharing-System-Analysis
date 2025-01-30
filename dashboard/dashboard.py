@@ -88,8 +88,8 @@ def number_formating2(value, pos):
 
 #Mengambil dataset Utama
 #Untuk dataset yang saya gunakan bukan dataset asli atau mentah tapi dataset yang sudah dibersihkan untuk melihat proses pembersihan datanya bisa melihat di file notebook.ipnyb
-hour_df = pd.read_csv("clean_hourdata.csv")
-day_df = pd.read_csv("clean_daydata.csv")
+hour_df = pd.read_csv("dashboard/clean_hourdata.csv")
+day_df = pd.read_csv("dashboard/clean_daydata.csv")
 
 #Configurasi untuk web, seperti judul web dan layout
 st.set_page_config(page_title="Bike Sharing Sytem",
