@@ -112,7 +112,7 @@ max_date_day = day_df['date'].max()
 
 #Membuat Side yang berisi logo judul dan filter
 with st.sidebar:
-    st.image("logo.png")
+    st.image("dashboard/logo.png")
     st.header("2011 - 2012 Performance Report")
 
     start_date, end_date = st.date_input(
